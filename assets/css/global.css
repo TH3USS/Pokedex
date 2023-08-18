@@ -1,0 +1,16 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+/* (*)-afeta tudo*/
+
+body {
+    background-color: #f6f7fc;
+}
+
+.content {
+    width: 100vw;
+    padding: 1rem;
+    background-color: #fff;
+}
