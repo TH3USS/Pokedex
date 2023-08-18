@@ -2,6 +2,8 @@
 >Uma pokedex é uma lista de pokémons com suas informações principais e características.
 <br>
 
+[![Pokedex](https://img.shields.io/website-up-down-green-red/http/monip.org.sv)]()
+
 Esse é o projeto de uma pokedex feita em HTML, CSS e JavaScript! Que foi realizado durante um curso da [DIO](https://www.dio.me/) com o propósito de pôr em prática de forma lúdica os conceitos aprendidos sobre HTML, CSS, JavaScript e o uso de APIs.
 
 ### ✔️ Feito
